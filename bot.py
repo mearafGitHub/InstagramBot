@@ -23,5 +23,5 @@ class InstagramBot:
 
 if __name__ == '__main__':
     #  instance of the class
-    ig_bot = InstagramBot('temp_username', 'temp_password')
+    ig_bot = InstagramBot('use_your_username', 'use_your_password')
     print(ig_bot.username)
